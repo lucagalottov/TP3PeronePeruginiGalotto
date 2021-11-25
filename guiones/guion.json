@@ -89,20 +89,20 @@
           },
           {
                "tiempo":"01:21",
-               "duracion":20000,
+               "duracion":22000,
                "camara":"llanura",
                "target":"targetLlanura2",
                "nombre":""
           },
           {
-               "tiempo":"01:41",
+               "tiempo":"01:43",
                "duracion":0,
                "camara":"camaraCactus1",
                "target":"targetCactus1",
                "nombre":"Cactus"
           },
           {
-               "tiempo":"01:42",
+               "tiempo":"01:44",
                "duracion":18000,
                "camara":"camaraCactus2",
                "target":"targetCactus2",

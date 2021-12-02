@@ -97,15 +97,15 @@
           {
                "tiempo":"01:43",
                "duracion":0,
-               "camara":"camaraCactus1",
-               "target":"targetCactus1",
+               "camara":"camaraCactus2",
+               "target":"targetCactus2",
                "nombre":"Cactus"
           },
           {
                "tiempo":"01:44",
                "duracion":18000,
-               "camara":"camaraCactus2",
-               "target":"targetCactus2",
+               "camara":"camaraCactus1",
+               "target":"targetCactus1",
                "nombre":""
           }
 
